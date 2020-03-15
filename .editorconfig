@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 14,
+    "editor.insertSpaces": true,
+    "window.zoomLevel": 1,
+    "editor.detectIndentation": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+}
